@@ -7,3 +7,5 @@ In this way, it was possible to assess whether the effects caused by the pandemi
 In a second analysis, we sought to understand the heterogeneity of school performance according to the region of the State of São Paulo.
 
 At the end of the analyses, it was possible to obtain some conclusions.
+
+This work was done together with Beatriz Cristine Almeida dos Santos, Isabela Belapetravicius, Natália Elloá Ramos Oliveira and Victor Villela dos Santos.
